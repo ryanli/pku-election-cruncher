@@ -4,6 +4,7 @@
 // @namespace     http://www.ryanli.org/scripts/election-cruncher
 // @description   Elect courses in Peking University automatically
 // @include       http://elective.pku.edu.cn/elective2008/edu/pku/stu/elective/controller/supplement/SupplyAndCancel.do
+// @include       http://elective.pku.edu.cn/elective2008/edu/pku/stu/elective/controller/supplement/supplement.jsp*
 // @copyright     2011 - 2012, Ryan Li <ryanli@ryanli.org>
 // @licence       GPL version 3; http://www.gnu.org/copyleft/gpl.html
 // ==/UserScript==
